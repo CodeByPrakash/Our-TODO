@@ -35,7 +35,14 @@
 - **States**: Lift on hover, compress on press, rotate on interact
 
 ---
-
+---
+## Preview
+![Preview](https://github.com/CodeByPrakash/Our-TODO/raw/main/ourtodo.png)
+![Preview](https://github.com/CodeByPrakash/Our-TODO/raw/main/ourtodo-c.png)
+![Preview](https://github.com/CodeByPrakash/Our-TODO/raw/main/ourtodo-ed.png)
+![Preview](https://github.com/CodeByPrakash/Our-TODO/raw/main/ourtodo-ex.png)
+![Preview](https://github.com/CodeByPrakash/Our-TODO/raw/main/ourtodo-stats.png)
+---
 ## 🚀 Quick Start
 
 ### Prerequisites
